@@ -1,10 +1,12 @@
 dependencies:
-  - bokeh
-  - pandas
-  - numpy
-  - scipy
-  - scikit-learn
-  - pip
-  - pip:
-    - nbserverproxy
-    - jupyter-server-proxy
+- pandas
+- numpy
+- bokeh
+- scipy
+- matplotlib
+- seaborn
+- shapely
+- pip
+- pip:
+  - nbserverproxy
+  - jupyter-server-proxy

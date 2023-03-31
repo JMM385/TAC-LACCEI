@@ -1,0 +1,12 @@
+name: bokeh-app
+
+dependencies:
+- python=3.7
+- numpy=1.24.2
+- pandas=1.5.3
+- bokeh=3.1.0
+- scikit-learn=1.2.2
+- pip
+- pip:
+    - nbserverproxy
+    - jupyter-server-proxy

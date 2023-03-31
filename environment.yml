@@ -1,17 +1,10 @@
-channels:
-  - anaconda
-  - bokeh
-  - defaults
 dependencies:
-  - blas=1.0=mkl
-  - bokeh=3.1.0=py_0
-  - certifi=2020.6.20=pyhd3eb1b0_3
+  - bokeh
   - pandas
   - numpy
   - scipy
+  - scikit-learn
   - pip
-  - seaborn
-  - shapely
   - pip:
     - nbserverproxy
     - jupyter-server-proxy

@@ -3,5 +3,6 @@ dependencies:
   - pandas
   - scipy
   - pip
+  - scikit-learn
   - pip:
     - jupyter-server-proxy

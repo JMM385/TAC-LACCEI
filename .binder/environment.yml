@@ -5,5 +5,4 @@ dependencies:
 - scikit-learn=1.2.2
 - pip
 - pip:
-    - nbserverproxy
     - jupyter_server_proxy
